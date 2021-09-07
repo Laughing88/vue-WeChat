@@ -4,7 +4,7 @@
 
 本项目是使用Vue.js2.0框架，搭配样式库[WeUI](https://weui.io/)，模仿微信app的交互，做到以假乱真的效果。
 
-项目地址 `https://github.com/zhaohaodang/vue-WeChat`
+项目地址 `https://github.com/Laughing88/vue-WeChat.git`
 
 ## 手机预览
 
@@ -27,7 +27,7 @@
 1.克隆代码到本地
 
 ``` 
-git clone https://github.com/zhaohaodang/vue-WeChat.git
+git clone https://github.com/Laughing88/vue-WeChat.git
 ```
 
 2.进入项目路径
